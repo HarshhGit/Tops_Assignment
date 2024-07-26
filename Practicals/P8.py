@@ -13,4 +13,4 @@ print(f"First list without unique elements: {list1}")
 print("List with unique elements: " ,unique_elm(list1))
 
 
-#using typecasting to remove duplicate and than againg converting into list
+#using typecasting to remove duplicate and than again converting into list

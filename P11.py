@@ -9,3 +9,7 @@ else:
     second_small = list1
     second_small.sort()
     print ("Second smallest number is: ",second_small[1])
+
+
+
+#can't sort() list directly
