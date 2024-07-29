@@ -1,4 +1,4 @@
-# Q.31)How Do You Traverse Through A Dictionary Object In Python? 
+# Q.31}How Do You Traverse Through A Dictionary Object In Python? 
 
 clas = {
     "stud1": 1,
