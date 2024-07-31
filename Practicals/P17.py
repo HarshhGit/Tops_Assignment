@@ -1,4 +1,4 @@
-# Q.17).Write a Python program to convert a tuple to a string.
+# Q.17) Write a Python program to convert a tuple to a string.
 
 
 tuple1 = (1, 2, "hello", 3.14)

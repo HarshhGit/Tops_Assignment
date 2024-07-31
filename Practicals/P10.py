@@ -1,4 +1,4 @@
-# Q.10]. Write a Python program to select an item randomly from a list. 
+# Q.10] Write a Python program to select an item randomly from a list. 
 
 import random
 

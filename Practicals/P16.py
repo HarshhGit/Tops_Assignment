@@ -1,4 +1,4 @@
-# Q.16). Write a Python program to create a tuple with numbers. 
+# Q.16) Write a Python program to create a tuple with numbers. 
 
 user = input("Enter number with spaces: ")
 print("number without tuple", user)

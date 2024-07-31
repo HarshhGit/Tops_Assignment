@@ -1,4 +1,4 @@
-# Q.13]. Write a Python program to check whether a list contains a sub list.
+# Q.13] Write a Python program to check whether a list contains a sub list.
 
 
 list1 = [1,2,3,4,5,6]

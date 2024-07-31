@@ -1,4 +1,4 @@
-# Q.45] Write a Python function to check whether a number is perfect or not.
+# Q.45]Write a Python function to check whether a number is perfect or not.
 
 
 def perfect(n):

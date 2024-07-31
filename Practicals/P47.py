@@ -1,4 +1,4 @@
-# Q.47] Write a Python program to read a random line from a file.
+# Q.47]  Write a Python program to read a random line from a file.
 
 import random
 

@@ -1,4 +1,4 @@
-# Q.21).Write a Python program to reverse a tuple.
+# Q.21) Write a Python program to reverse a tuple.
 
 tuple1 = ('hello', 22, 3.14, True, None)
 

@@ -1,4 +1,4 @@
-# Q.49] Write a Python program to calculate the area of a trapezoid
+# Q.49]  Write a Python program to calculate the area of a trapezoid
 
 def trapezoid_area(b1,b2,h):
     return 0.5 * (b1 + b2) * h

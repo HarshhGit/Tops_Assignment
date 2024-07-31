@@ -1,4 +1,4 @@
-# Q.40} Write a Python program to find the highest 3 values in a dictionary
+# Q.40}  Write a Python program to find the highest 3 values in a dictionary
 
 value = {'a': 5, 'b': 1, 'c': 9, 'd': 3, 'e': 7, 'f': 2}
 

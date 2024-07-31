@@ -1,4 +1,4 @@
-""" Q.51] Write a Python program to calculate surface volume and area of a
+""" Q.51]  Write a Python program to calculate surface volume and area of a
 cylinder """
 
 import math

@@ -1,4 +1,4 @@
-# Q.11]. Write a Python program to find the second smallest number in a list.
+# Q.11]  Write a Python program to find the second smallest number in a list.
 
 
 list1 = [10,5,20,30]

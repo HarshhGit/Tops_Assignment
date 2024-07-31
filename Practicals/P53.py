@@ -1,4 +1,4 @@
-""" Q.53] Write a Python program to find the maximum and minimum numbers
+""" Q.53]  Write a Python program to find the maximum and minimum numbers
 from the specified decimal numbers"""
 
 num = input("Enter decimal number with spaces: ")

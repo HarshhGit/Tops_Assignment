@@ -1,4 +1,4 @@
-# Q.50] Write a Python program to calculate the area of a parallelogram
+# Q.50]  Write a Python program to calculate the area of a parallelogram
 
 def area_parallel(b,h):
     return b*h

@@ -1,4 +1,4 @@
-# Q.34} Write a Python program to check multiple keys exists in a dictionary
+# Q.34}  Write a Python program to check multiple keys exists in a dictionary
 
 def key_exist(dictionary, keys):
     return all(key in dictionary for key in keys)

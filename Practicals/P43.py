@@ -1,4 +1,4 @@
-# Q.43] Write a Python function to calculate the factorial of a number (a nonnegative integer)
+# Q.43]  Write a Python function to calculate the factorial of a number (a nonnegative integer)
 
 import math
 

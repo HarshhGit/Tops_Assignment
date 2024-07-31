@@ -1,4 +1,4 @@
-# Q.24). Write a Python program to remove an empty tuple(s) from a list of tuples.
+# Q.24)  Write a Python program to remove an empty tuple(s) from a list of tuples.
 
 tuple1 = [(1,2,3), (), (4,5,6)]
 

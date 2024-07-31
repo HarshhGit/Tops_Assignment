@@ -1,4 +1,4 @@
-# Q.28} Write a Python script to sort (ascending and descending) a dictionary by value. 
+# Q.28}  Write a Python script to sort (ascending and descending) a dictionary by value. 
 
 days = {'tuesday':3, 'sunday':1, 'monday':2}
 

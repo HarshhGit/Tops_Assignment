@@ -1,4 +1,4 @@
-# Q.20) Write a Python program to convert a list to a tuple.
+# Q.20)  Write a Python program to convert a list to a tuple.
 
 
 list1 = ["hello", 22, 3.14, True, None]

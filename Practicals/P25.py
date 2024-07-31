@@ -1,4 +1,4 @@
-# Q.25)Write a Python program to unzip a list of tuples into individual lists 
+# Q.25) Write a Python program to unzip a list of tuples into individual lists 
 
 tuple_list = [(1,0), (2,1),(3,2)]
 

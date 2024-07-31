@@ -1,4 +1,4 @@
-# Q.22).Write a Python program to replace last value of tuples in a list.
+# Q.22) Write a Python program to replace last value of tuples in a list.
 
 
 tuple_list = [(1,2,3),(4,5,6),(7,8,9)]

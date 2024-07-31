@@ -1,4 +1,4 @@
-# Q.36} Write a Python program to map two lists into a dictionary 
+# Q.36}  Write a Python program to map two lists into a dictionary 
 
 list1 = [1,2,3,4]
 list2 = [5,6,7,8]

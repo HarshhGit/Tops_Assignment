@@ -1,4 +1,4 @@
-# Q.35}Write a Python script to merge two Python dictionaries 
+# Q.35} Write a Python script to merge two Python dictionaries 
 
 #using update()
 

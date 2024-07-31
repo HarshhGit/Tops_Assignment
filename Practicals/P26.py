@@ -1,4 +1,4 @@
-# Q.26} Write a Python program to convert a list of tuples into a dictionary. 
+# Q.26}  Write a Python program to convert a list of tuples into a dictionary. 
 
 tuple_list = [(1,0), (2,1),(3,2)]
 

@@ -1,4 +1,4 @@
-# Q.14]. Write a Python program to split a list into different variables. 
+# Q.14]  Write a Python program to split a list into different variables. 
 
 list1 = ["sunday","monday","tuesday","wednesday","thursday","friday","saturday"]
 

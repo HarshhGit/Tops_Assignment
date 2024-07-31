@@ -1,4 +1,4 @@
-# Q.30}Write a Python script to check if a given key already exists in a dictionary. 
+# Q.30} Write a Python script to check if a given key already exists in a dictionary. 
 
 ex_dict = {'apple':5, 'banana':3,'cherry':7,'orange':2}
 

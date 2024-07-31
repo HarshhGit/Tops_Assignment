@@ -1,4 +1,4 @@
-# Q.44] Write a Python function to check whether a number is in a given range
+# Q.44]  Write a Python function to check whether a number is in a given range
 
 def in_range(num,start,end):
     return start <= num <= end

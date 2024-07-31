@@ -1,4 +1,4 @@
-# Q.52] Write a Python program to returns sum of all divisors of a number.
+# Q.52]  Write a Python program to returns sum of all divisors of a number.
 
 user = int(input("Enter a number for divisors: "))
 sum = 0

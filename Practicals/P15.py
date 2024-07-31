@@ -1,4 +1,4 @@
-# Q.15). Write a Python program to create a tuple with different data types. 
+# Q.15) Write a Python program to create a tuple with different data types. 
 
 tuple1 = (1, "harsh", 3.14, True,[1,2,3],{"key":"value"})
 

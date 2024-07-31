@@ -1,4 +1,4 @@
-"""Q.18). Write a Python program to check whether an element exists within a tuple. """
+"""Q.18) Write a Python program to check whether an element exists within a tuple. """
 
 
 main_tuple = (1, 2, "hello", True)

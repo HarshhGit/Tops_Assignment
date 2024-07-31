@@ -1,4 +1,4 @@
-# Q.23).Write a Python program to find the repeated items of a tuple. 
+# Q.23) Write a Python program to find the repeated items of a tuple. 
 
 tuple1 = (1,2,3,4,5,6,1,4,5,7,2,3)
 print("main tuple: ", tuple1)
